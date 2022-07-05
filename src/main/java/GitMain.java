@@ -15,5 +15,6 @@ public class GitMain {
         System.out.println("77777777777777777777");
         System.out.println("88888888888888888888");
         System.out.println("master test");
+        System.out.println("hot_fix test");
     }
 }
